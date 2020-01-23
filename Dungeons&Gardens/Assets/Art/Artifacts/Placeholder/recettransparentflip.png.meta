@@ -1,0 +1,1349 @@
+fileFormatVersion: 2
+guid: 4f93b07b240c2ee4ca991650ef6d252a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1648350792966563142
+    second: recettransparentflip_0
+  - first:
+      213: 2859127349833996017
+    second: recettransparentflip_1
+  - first:
+      213: 4508063491411629589
+    second: recettransparentflip_2
+  - first:
+      213: 8221158415108343201
+    second: recettransparentflip_3
+  - first:
+      213: 8634463270639039717
+    second: recettransparentflip_4
+  - first:
+      213: 917974233295849887
+    second: recettransparentflip_5
+  - first:
+      213: -3876046639540636418
+    second: recettransparentflip_6
+  - first:
+      213: 1800537828009904023
+    second: recettransparentflip_7
+  - first:
+      213: -7459319365679596993
+    second: recettransparentflip_8
+  - first:
+      213: 5336422288026961420
+    second: recettransparentflip_9
+  - first:
+      213: -245075737747153019
+    second: recettransparentflip_10
+  - first:
+      213: 2184778720460910929
+    second: recettransparentflip_11
+  - first:
+      213: 7118806532733261876
+    second: recettransparentflip_12
+  - first:
+      213: 3877712894275815310
+    second: recettransparentflip_13
+  - first:
+      213: -1610061520327146517
+    second: recettransparentflip_14
+  - first:
+      213: -3688829066517624901
+    second: recettransparentflip_15
+  - first:
+      213: 2707002215714971450
+    second: recettransparentflip_16
+  - first:
+      213: -2976240917321883775
+    second: recettransparentflip_17
+  - first:
+      213: 8423803241744658344
+    second: recettransparentflip_18
+  - first:
+      213: -1894192802537552157
+    second: recettransparentflip_19
+  - first:
+      213: 4804888405582385691
+    second: recettransparentflip_20
+  - first:
+      213: -7279907151537248847
+    second: recettransparentflip_21
+  - first:
+      213: 7779641834263651569
+    second: recettransparentflip_22
+  - first:
+      213: 9029218277836376792
+    second: recettransparentflip_23
+  - first:
+      213: 3930110190852556272
+    second: recettransparentflip_24
+  - first:
+      213: 8535732696470332583
+    second: recettransparentflip_25
+  - first:
+      213: -3025125029809417742
+    second: recettransparentflip_26
+  - first:
+      213: -453209449508892038
+    second: recettransparentflip_27
+  - first:
+      213: 6680042397567769407
+    second: recettransparentflip_28
+  - first:
+      213: -561156922336764192
+    second: recettransparentflip_29
+  - first:
+      213: 4582998182250202243
+    second: recettransparentflip_30
+  - first:
+      213: 409872867465589628
+    second: recettransparentflip_31
+  - first:
+      213: 5067717635365765694
+    second: recettransparentflip_32
+  - first:
+      213: -7059442611956343407
+    second: recettransparentflip_33
+  - first:
+      213: -4089122096636886853
+    second: recettransparentflip_34
+  - first:
+      213: 5308871441912357713
+    second: recettransparentflip_35
+  - first:
+      213: -5140129842449795522
+    second: recettransparentflip_36
+  - first:
+      213: -7751513373705725265
+    second: recettransparentflip_37
+  - first:
+      213: 680705561072961316
+    second: recettransparentflip_38
+  - first:
+      213: 4201825701424820402
+    second: recettransparentflip_39
+  - first:
+      213: -1751758334434081899
+    second: recettransparentflip_40
+  - first:
+      213: -6385973976639562977
+    second: recettransparentflip_41
+  - first:
+      213: 2882890650430646168
+    second: recettransparentflip_42
+  - first:
+      213: 5769449244399221418
+    second: recettransparentflip_43
+  - first:
+      213: -3346505322537368892
+    second: recettransparentflip_44
+  - first:
+      213: -4612010505770035188
+    second: recettransparentflip_45
+  - first:
+      213: -436666629147805949
+    second: recettransparentflip_46
+  - first:
+      213: 7243490314815495479
+    second: recettransparentflip_47
+  - first:
+      213: 711062562604945651
+    second: recettransparentflip_48
+  - first:
+      213: 6144023987693374623
+    second: recettransparentflip_49
+  - first:
+      213: -7129968426992654599
+    second: recettransparentflip_50
+  - first:
+      213: 8577080398436122193
+    second: recettransparentflip_51
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: recettransparentflip_0
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1034
+        width: 56
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc1dd8511b5fbd4aa3e1d3facc6bbc0
+      internalID: 1648350792966563142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recettransparentflip_1
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1032
+        width: 51
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6992169573c0a7940a5c856d98fcd586
+      internalID: 2859127349833996017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recettransparentflip_2
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1030
+        width: 51
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5afeee13c92664fb0b36b4eb98af70
+      internalID: 4508063491411629589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recettransparentflip_3
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1028
+        width: 52
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4be83acb0dcb94eb78908430fd5195
+      internalID: 8221158415108343201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recettransparentflip_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 937
+        width: 58
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3070399d01d59e24b92f4d0026774c26
+      internalID: 8634463270639039717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recettransparentflip_5
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 937
+        width: 58
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9dfca988b0bf4499c6b8c99d381cbd
+      internalID: 917974233295849887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recettransparentflip_6
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 937
+        width: 58
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1974a3ce85ac746818ae799d3214f0
+      internalID: -3876046639540636418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recettransparentflip_7
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 937
+        width: 52
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e682b815e05dec4082a6c47aa908456
+      internalID: 1800537828009904023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recettransparentflip_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 840
+        width: 48
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c692e338318ee4591b5e89206f6e66
+      internalID: -7459319365679596993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recettransparentflip_9
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 840
+        width: 48
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bd6fa4dfc1a544ca80fea75a1a1dbb
+      internalID: 5336422288026961420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recettransparentflip_10
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 840
+        width: 48
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b71eebe513e034684d36d14d448f4c
+      internalID: -245075737747153019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recettransparentflip_11
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 840
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c74ef0c391a8e44bba6e3647bc72523
+      internalID: 2184778720460910929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recettransparentflip_12
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 840
+        width: 56
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92cccc82e8f795d478f268916cc60bed
+      internalID: 7118806532733261876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recettransparentflip_13
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 840
+        width: 45
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc03b789d8d65d84cb4406cfe892c42f
+      internalID: 3877712894275815310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recettransparentflip_14
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 840
+        width: 47
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94c4df432309a448b39d70876b8ed25
+      internalID: -1610061520327146517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recettransparentflip_15
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 840
+        width: 47
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a1ed9653c78a0479622b71624c2dc9
+      internalID: -3688829066517624901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recettransparentflip_16
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 745
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a68aec49055b642a4939c8d938799a
+      internalID: 2707002215714971450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recettransparentflip_17
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 742
+        width: 51
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9114ce3e093436c4d924983f6fe8115e
+      internalID: -2976240917321883775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recettransparentflip_18
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 745
+        width: 52
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a4d99a1b5121d4c99d48cc8379b60e
+      internalID: 8423803241744658344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recettransparentflip_19
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 744
+        width: 53
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6382f44297368499eab10c8734de23
+      internalID: -1894192802537552157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recettransparentflip_20
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 653
+        width: 56
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a257eeca00eb1940b83670468bfcbfa
+      internalID: 4804888405582385691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recettransparentflip_21
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 653
+        width: 56
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f08201b7a81b394d9f7acf672e6b82b
+      internalID: -7279907151537248847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recettransparentflip_22
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 653
+        width: 56
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a8f2ce7ea1c214091e8cc1de1243e6
+      internalID: 7779641834263651569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recettransparentflip_23
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 653
+        width: 53
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c891e8b75eb50b4f8025c6464a8b506
+      internalID: 9029218277836376792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recettransparentflip_24
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 559
+        width: 63
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72dddc0c28f74e44fb29676f494e2563
+      internalID: 3930110190852556272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recettransparentflip_25
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 552
+        width: 65
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b386a10c0fea44c80ec3f997280df8
+      internalID: 8535732696470332583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recettransparentflip_26
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 557
+        width: 60
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d1496a34d190f48bda6d7b6f0814ee
+      internalID: -3025125029809417742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recettransparentflip_27
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 552
+        width: 67
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df1c2952f9a67f47a73c4005b7f7ec4
+      internalID: -453209449508892038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recettransparentflip_28
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 468
+        width: 52
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1810d37d1a351454a8cd950e1228dd07
+      internalID: 6680042397567769407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recettransparentflip_29
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 466
+        width: 53
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93272261feb27ca49bb5cf18b77e7630
+      internalID: -561156922336764192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recettransparentflip_30
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 372
+        width: 44
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42933fc3555e3e044a7d3b36999d8008
+      internalID: 4582998182250202243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recettransparentflip_31
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 378
+        width: 44
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0e5082c9485a647b1acb8ab1ea340b
+      internalID: 409872867465589628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recettransparentflip_32
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 286
+        width: 49
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa41174caaf347e41906875b6cf27b27
+      internalID: 5067717635365765694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recettransparentflip_33
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 291
+        width: 50
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123899b5aeb19074caf8ed0dfd1ccec2
+      internalID: -7059442611956343407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recettransparentflip_34
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 287
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9549a50306872a4aa3b4021cde43cc9
+      internalID: -4089122096636886853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recettransparentflip_35
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 292
+        width: 57
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a074be6c2bd89c14ebd0414776c1309b
+      internalID: 5308871441912357713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recettransparentflip_36
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 206
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3ab62d89a235d44862bda75255569a
+      internalID: -5140129842449795522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recettransparentflip_37
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 196
+        width: 54
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a116ced014fc747b5e794e41d5078d
+      internalID: -7751513373705725265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recettransparentflip_38
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 197
+        width: 48
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5e7e1c99970cd4a92f336e0bcaef85
+      internalID: 680705561072961316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recettransparentflip_39
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 203
+        width: 56
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ece78255f426aa42a86981dc4fff1a2
+      internalID: 4201825701424820402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recettransparentflip_40
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 105
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39dabd33bf69f72488f2d730ae5962b2
+      internalID: -1751758334434081899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recettransparentflip_41
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 105
+        width: 59
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f5d935d15ab3449a7187f8fea29267
+      internalID: -6385973976639562977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recettransparentflip_42
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 105
+        width: 60
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4834bd5c5781e448a5b4573f781d63
+      internalID: 2882890650430646168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recettransparentflip_43
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 105
+        width: 63
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db27f1d073f3f174490f72ff10f4ea07
+      internalID: 5769449244399221418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recettransparentflip_44
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 8
+        width: 53
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa01699b6b28b624ab58d41a8aa20d2b
+      internalID: -3346505322537368892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recettransparentflip_45
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 8
+        width: 91
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1efff9fa29aba44282d2db73f168f44
+      internalID: -4612010505770035188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recettransparentflip_46
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 32
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f39f51e2b9f7db4081ff976b80f63dc
+      internalID: -436666629147805949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recettransparentflip_47
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 8
+        width: 63
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62b8c7e838c8d042a2694448d952a8e
+      internalID: 7243490314815495479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recettransparentflip_48
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 6
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9183444c4cdca24487fa0b5f08c1de4
+      internalID: 711062562604945651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recettransparentflip_49
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 26
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928ce121437035c4a87b2e330ccd5947
+      internalID: 6144023987693374623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recettransparentflip_50
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 20
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03348e533e3ad76459f98314b856098a
+      internalID: -7129968426992654599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recettransparentflip_51
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 15
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aff8f4188c85b34fb051c4746d02c6c
+      internalID: 8577080398436122193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1d6c8e547cba04d44992b4d530e0cde3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

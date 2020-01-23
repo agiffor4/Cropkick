@@ -1,0 +1,365 @@
+fileFormatVersion: 2
+guid: a761e7eef9ae9c043b274f9eaf50c0ab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4787818278108622207
+    second: TerraGreeneSpritesheet v5_0
+  - first:
+      213: 2731511707327110353
+    second: TerraGreeneSpritesheet v5_1
+  - first:
+      213: -5168910313967621758
+    second: TerraGreeneSpritesheet v5_2
+  - first:
+      213: -4635192051573602828
+    second: TerraGreeneSpritesheet v5_3
+  - first:
+      213: -4580325301003964508
+    second: TerraGreeneSpritesheet v5_4
+  - first:
+      213: -8303374398083656045
+    second: TerraGreeneSpritesheet v5_5
+  - first:
+      213: -4501927600829296321
+    second: TerraGreeneSpritesheet v5_6
+  - first:
+      213: 8430055081557732245
+    second: TerraGreeneSpritesheet v5_7
+  - first:
+      213: 6645931465901741997
+    second: TerraGreeneSpritesheet v5_8
+  - first:
+      213: -6364193687645126034
+    second: TerraGreeneSpritesheet v5_9
+  - first:
+      213: 774062664634181489
+    second: TerraGreeneSpritesheet v5_10
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 110
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TerraGreeneSpritesheet v5_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1004
+        width: 88
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc11df56d147dda4794ca66229443bee
+      internalID: -4787818278108622207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TerraGreeneSpritesheet v5_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 902
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1728a5ce1af139d4287f586913713eff
+      internalID: 2731511707327110353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TerraGreeneSpritesheet v5_2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 894
+        width: 95
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5339aed8dca585541ad4bae4a40241a8
+      internalID: -5168910313967621758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TerraGreeneSpritesheet v5_3
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 899
+        width: 97
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7203409085f465b459af8473e4225148
+      internalID: -4635192051573602828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TerraGreeneSpritesheet v5_4
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 894
+        width: 95
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b264ff04240a142b400fcd3c00931c
+      internalID: -4580325301003964508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TerraGreeneSpritesheet v5_5
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 791
+        width: 62
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b5cbe75dee4664a8877458bd096c23
+      internalID: -8303374398083656045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TerraGreeneSpritesheet v5_6
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 780
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d656473a2c4a5e240ac2208856aef87f
+      internalID: -4501927600829296321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TerraGreeneSpritesheet v5_7
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 666
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e931cdecc4753164183c1aa4324f3ddd
+      internalID: 8430055081557732245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TerraGreeneSpritesheet v5_8
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 578
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec7e88b55980cc4ebb81cace98d6d2a
+      internalID: 6645931465901741997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TerraGreeneSpritesheet v5_9
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 540
+        width: 65
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c78c962b0478a408a3af16f0542900
+      internalID: -6364193687645126034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TerraGreeneSpritesheet v5_10
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 515
+        width: 89
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf2d5568333dd64c86837ebc05673a9
+      internalID: 774062664634181489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 630723f5f36a7664381f1d19bf01695b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
