@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/PrototypeFarmStage.unity
+- path: Assets/Scenes/PrototypeSelectionMenu.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

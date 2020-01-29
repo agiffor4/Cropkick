@@ -63,6 +63,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Camera\MultiTargetCam.cs" />
+    <Compile Include="Assets\Scripts\Canvas\CharacterSelectMenuScript.cs" />
+    <Compile Include="Assets\Scripts\Canvas\MainMenuScript.cs" />
+    <Compile Include="Assets\Scripts\Canvas\MenuTransitionScript.cs" />
     <Compile Include="Assets\Scripts\CrystalScript.cs" />
     <Compile Include="Assets\Scripts\Game Management\CollectableCropScript.cs" />
     <Compile Include="Assets\Scripts\Game Management\DodgeAfterImageScript.cs" />
@@ -102,6 +105,7 @@
     <Compile Include="Assets\Scripts\Stage\RiverforCropsScript.cs" />
     <Compile Include="Assets\Scripts\Stage\RiverStageScript.cs" />
     <Compile Include="Assets\Scripts\Stage\SpriteOrderScript.cs" />
+    <Compile Include="Assets\Scripts\TimerScript.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/Warpo/Dungeons&amp;Gardens/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
