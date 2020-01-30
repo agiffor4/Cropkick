@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Hitbox
+  - Player2
+  - PlotE
+  - PlotS
+  - Crop
+  - InventoryP1
+  - InventoryP2
+  - GameManager
+  - MatchTimer
+  - InteractNode
+  - DroppedCrop
+  - CutInManager
+  - InteractNodeS
+  - InteractNodeW
+  - InteractNodeH
+  - PlotUW
+  - PlotR
+  - PlotW
+  - P1_AbilityA_UI
+  - P1_AbilityB_UI
+  - P1_AbilityC_UI
+  - P2_AbilityA_UI
+  - P2_AbilityB_UI
+  - P2_AbilityC_UI
+  - GrowthRadius
+  - CountdownManager
+  - EndGameManager
+  - P1VictoryManager
+  - P2VictoryManager
+  - TieManager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Bounds Layer
+  - Player Layer
+  - Particle Layer
+  - Crystal Layer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

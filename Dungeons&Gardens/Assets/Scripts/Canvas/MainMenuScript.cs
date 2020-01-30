@@ -13,6 +13,7 @@ public class MainMenuScript : MonoBehaviour
     public GameObject button1select;
     public GameObject button0select;
 
+    public bool readyToStart = true;
     public Camera mainCam;
 
     public int buttonPos;
@@ -93,10 +94,12 @@ public class MainMenuScript : MonoBehaviour
                 //SceneManager.LoadScene(menu1);
                 break;
             case 2:
-                CreditsButtonFunction();       
+                CreditsButtonFunction();
+             
                 break;
             case 1:
-                SettingsButtonFunction();              
+                SettingsButtonFunction();
+             
                 break;
             case 0:
                 ExitButtonFunction();            
@@ -173,6 +176,9 @@ public class MainMenuScript : MonoBehaviour
 
     }
 
+
+       
+
     public void CleanSelection()
     {
         button3select.SetActive(false);
@@ -195,18 +201,29 @@ public class MainMenuScript : MonoBehaviour
 
     public void StartButtonFunction()
     {
-        mtscript.MoveCameraTarget("Main");
         Debug.Log("pressed start button");
+        if (readyToStart == true)
+        {
+            SceneManager.LoadScene("PrototypeFarmStage");
+        }
+        else
+        {
+            mtscript.MoveCameraTarget("Main");
+            readyToStart = true;
+        }
+     
     }
 
     public void CreditsButtonFunction()
     {
+        readyToStart = false;
         mtscript.MoveCameraTarget("Credits");
         Debug.Log("pressed credits button");
     }
 
     public void SettingsButtonFunction()
     {
+        readyToStart = false;
         mtscript.MoveCameraTarget("Settings");
         Debug.Log("pressed settings button");
     }

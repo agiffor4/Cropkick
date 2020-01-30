@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 3}
-  m_MinSize: {x: 950, y: 300}
+  m_MinSize: {x: 950, y: 544}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -134,10 +134,10 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 947
-  m_MinSize: {x: 681, y: 494}
-  m_MaxSize: {x: 14002, y: 14044}
+  m_MinSize: {x: 683, y: 494}
+  m_MaxSize: {x: 14004, y: 14044}
   vertical: 0
-  controlID: 37239
+  controlID: 60
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -162,7 +162,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 494}
   m_MaxSize: {x: 10002, y: 14044}
   vertical: 1
-  controlID: 37240
+  controlID: 61
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -187,7 +187,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 222}
   m_MaxSize: {x: 8006, y: 4022}
   vertical: 0
-  controlID: 37241
+  controlID: 62
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -409,9 +409,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 1a5c0400
-      m_LastClickedID: 285722
-      m_ExpandedIDs: a6f5feff5cfdfeffd604ffffe206ffff6a07ffffc208ffff600dffff1019ffff1c2bffff202ffffff8a1ffffd6a2ffff8ca3ffff22abffffd8b1ffffa2bcffff8efbffffca330000d6330000883400007e350000e2350000f07401005a760100e27c0100ee7c0100a07d0100a23604000c5a0400325a0400ba5a0400d25a0400c45b0400205c0400
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: aaccffffdcccffff72d7ffff0adfffff0edfffffe0faffff8efbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1075,20 +1075,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Art/CharacterColumn
+    - Assets/Scripts/Canvas
   m_ViewMode: 1
   m_StartGridSize: 57
   m_LastFolders:
-  - Assets/Art/CharacterColumn
+  - Assets/Scripts/Canvas
   m_LastFoldersGridSize: 57
-  m_LastProjectPath: C:\Users\Warpo\Dungeons&Gardens
+  m_LastProjectPath: C:\Users\Warpo\Documents\Cropkick\Cropkick\Dungeons&Gardens
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: c4510400
-    m_LastClickedID: 283076
-    m_ExpandedIDs: 00000000dc2900004a2a0000e62b0000782d00002a2e0000a02e00007c2f0000962f0000d22f00001830000048310000b4320000d832000000ca9a3b
+    scrollPos: {x: 0, y: 449}
+    m_SelectedIDs: f62c0000
+    m_LastClickedID: 11510
+    m_ExpandedIDs: 00000000e4290000522a0000fc2b00008e2d0000402e0000bc2e00009c2f0000b62f0000f22f00003c3000006e310000de3200000233000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1116,7 +1116,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000dc2900004a2a0000e62b0000782d00002a2e0000a02e00007c2f0000962f0000d22f00001830000048310000b4320000d832000000ca9a3b
+    m_ExpandedIDs: 00000000e4290000522a0000fc2b00008e2d0000402e0000bc2e00009c2f0000b62f0000f22f00003c3000006e310000de32000002330000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
