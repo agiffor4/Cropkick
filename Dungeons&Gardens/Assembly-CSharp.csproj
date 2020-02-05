@@ -77,6 +77,8 @@
     <Compile Include="Assets\Scripts\Game Management\ParallaxScrollingScript.cs" />
     <Compile Include="Assets\Scripts\Game Management\PlotScript.cs" />
     <Compile Include="Assets\Scripts\Game Management\ProjectileScript.cs" />
+    <Compile Include="Assets\Scripts\GameInitializer.cs" />
+    <Compile Include="Assets\Scripts\GlobalControl.cs" />
     <Compile Include="Assets\Scripts\Other\CropkickPlayerController.cs" />
     <Compile Include="Assets\Scripts\Other\FarmAlarm\Controller.cs" />
     <Compile Include="Assets\Scripts\Other\FarmAlarm\Crop.cs" />
@@ -101,13 +103,18 @@
     <Compile Include="Assets\Scripts\Player\PlayerControllerScript.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerHealthScript.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerInventoryScript.cs" />
+    <Compile Include="Assets\Scripts\PlayerData.cs" />
     <Compile Include="Assets\Scripts\RandomRotationScript.cs" />
+    <Compile Include="Assets\Scripts\SceneSelect.cs" />
     <Compile Include="Assets\Scripts\Stage\RiverforCropsScript.cs" />
     <Compile Include="Assets\Scripts\Stage\RiverStageScript.cs" />
     <Compile Include="Assets\Scripts\Stage\SpriteOrderScript.cs" />
     <Compile Include="Assets\Scripts\TimerScript.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/Warpo/Documents/Cropkick/Cropkick/Dungeons&amp;Gardens/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.InputSystem">
+      <HintPath>C:/Users/Warpo/Documents/Cropkick/Cropkick/Dungeons&amp;Gardens/Library/ScriptAssemblies/Unity.InputSystem.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/Warpo/Documents/Cropkick/Cropkick/Dungeons&amp;Gardens/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>

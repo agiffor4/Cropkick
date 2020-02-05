@@ -15,6 +15,9 @@ EditorBuildSettings:
     path: Assets/Scenes/PrototypeMainMenu.unity
     guid: 50d6a58b8dcd0474391fe292a859c801
   - enabled: 1
+    path: Assets/Scenes/PrototypeSelectionMenu.unity
+    guid: c9861a2e1e4e5a747a2dee9664addc8e
+  - enabled: 1
     path: Assets/Scenes/PrototypeFarmStage.unity
     guid: 405271735305ccf4b93e8e86392a2016
   - enabled: 1

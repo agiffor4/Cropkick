@@ -47,9 +47,6 @@ public class MainMenuScript : MonoBehaviour
         }
 
         Debug.Log("Working on Start");
-    //    countdownController = GameObject.FindWithTag("CountdownManager").GetComponent<Animator>();
- 
-     //   Player1.GetComponent<PlayerControllerScript>().enabled = false;
 
     }
 
@@ -204,7 +201,7 @@ public class MainMenuScript : MonoBehaviour
         Debug.Log("pressed start button");
         if (readyToStart == true)
         {
-            SceneManager.LoadScene("PrototypeFarmStage");
+            SceneManager.LoadScene("PrototypeSelectionMenu");
         }
         else
         {

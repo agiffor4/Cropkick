@@ -89,6 +89,7 @@ public class GameManagerScript : MonoBehaviour
         }
 
         Debug.Log("Working on Start");
+       
         countdownController = GameObject.FindWithTag("CountdownManager").GetComponent<Animator>();
         endgameController = GameObject.FindWithTag("EndGameManager").GetComponent<Animator>();
         p1winController = GameObject.FindWithTag("P1VictoryManager").GetComponent<Animator>();
@@ -100,6 +101,7 @@ public class GameManagerScript : MonoBehaviour
         Player2.GetComponent<PlayerControllerScript>().enabled = false;
         mtscript = GameObject.FindWithTag("MatchTimer").GetComponent<MatchTimerScript>();
         matchrunning = false;
+        GameStart();
     }
 
     // Update is called once per frame
@@ -228,23 +230,24 @@ public class GameManagerScript : MonoBehaviour
       // P2controlstext.text = "Attack: " + Player2.GetComponent<Player2ControlScript>().attackButton;
     }
 
-    public void loadotherstage()
-    {
-        Debug.Log("Called");
-        currstage = SceneManager.GetActiveScene();
-        if(currstage.name == stage1)
-        {
-            SceneManager.LoadScene(stage2);
-        }
-        else if(currstage.name == stage2)           //currstage.name == stage2
-        {
-            SceneManager.LoadScene(stage1);
-        }/*
-        else if (currstage.name == stage3)           //currstage.name == stage2
-        {
-            SceneManager.LoadScene(stage1);
-        }*/
+    /*  public void loadotherstage()
+      {
+          Debug.Log("Called");
+          currstage = SceneManager.GetActiveScene();
+          if(currstage.name == stage1)
+          {
+              SceneManager.LoadScene(stage2);
+          }
+          else if(currstage.name == stage2)           //currstage.name == stage2
+          {
+              SceneManager.LoadScene(stage1);
+          }
 
+      }*/
+
+    public void backtomenu()
+    {
+        SceneManager.LoadScene("PrototypeMainMenu");
     }
 
     public void EndApplication()
