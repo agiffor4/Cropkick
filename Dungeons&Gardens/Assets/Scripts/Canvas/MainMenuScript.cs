@@ -18,6 +18,9 @@ public class MainMenuScript : MonoBehaviour
 
     public int buttonPos;
 
+    float nextswitch;
+    float switchcooldown = 0.2f;
+
     private Scene currstage;
     [SerializeField] private string menu1 = "CharacterSelectMenu";
     [SerializeField] private string menu2 = "CreditsMenu";
@@ -65,16 +68,17 @@ public class MainMenuScript : MonoBehaviour
             confirmCase();
         }
 
-        if (Input.GetKeyDown(KeyCode.UpArrow))
+        if (Input.GetKeyDown(KeyCode.UpArrow) || (Input.GetAxisRaw("VerticalK1") == 1 && Time.time > nextswitch) || (Input.GetAxisRaw("VerticalJ2") == 1 && Time.time > nextswitch) || (Input.GetAxisRaw("VerticalJ1") == 1 && Time.time > nextswitch) || (Input.GetAxisRaw("VerticalJ3") == 1 && Time.time > nextswitch) || (Input.GetAxisRaw("VerticalJ4") == 1 && Time.time > nextswitch))
         {
             buttonPos += 1;
             checkCase();
+            nextswitch = Time.time + switchcooldown;
         }
 
-        if (Input.GetKeyDown(KeyCode.DownArrow))
-        {
+        if (Input.GetKeyDown(KeyCode.DownArrow) || (Input.GetAxisRaw("VerticalK1") == -1 && Time.time > nextswitch) || (Input.GetAxisRaw("VerticalJ2") == -1 && Time.time > nextswitch) || (Input.GetAxisRaw("VerticalJ1") == -1 && Time.time > nextswitch) || (Input.GetAxisRaw("VerticalJ3") == -1 && Time.time > nextswitch) || (Input.GetAxisRaw("VerticalJ4") == -1 && Time.time > nextswitch))
             buttonPos -= 1;
-            checkCase(); 
+            checkCase();
+            nextswitch = Time.time + switchcooldown;
         }
 
 
@@ -254,4 +258,5 @@ public class MainMenuScript : MonoBehaviour
         buttonPos = 0;
         checkCase();
     }
+}
 }
